@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="client2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f1f60e2-b19a-4350-9906-58b81f72b5ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client1/.idea/client1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/.idea/artifacts/client1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/.idea/artifacts/client1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/.idea/artifacts/client1_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/.idea/artifacts/client1_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/.idea/artifacts/client1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/.idea/artifacts/client1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/out/artifacts/client1_jar/client1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/out/artifacts/client1_jar/client1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/out/artifacts/client1_war/client1_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/out/artifacts/client1_war/client1_war.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/classes/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/classes/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/classes/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/classes/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/lib/swagger-java-client-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/out/artifacts/client1_war_exploded/WEB-INF/lib/swagger-java-client-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/src/main/java/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/src/main/java/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/target/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/target/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client1/target/classes/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../client1/target/classes/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReponseRecordsP2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ReponseRecordsP2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/client2_jar/ReponseRecords.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/client2_jar/client2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/client2_jar/client2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Consumer.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tCayQPr0VVu6sorSjrmVOybFsI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4284519" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="client2" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../bsds-summer-2021-testdata-assignment2.txt 128" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1f60e2-b19a-4350-9906-58b81f72b5ad" name="Default Changelist" comment="" />
+      <created>1622275779222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622275779222</updated>
+      <workItem from="1622275781084" duration="208000" />
+      <workItem from="1622276091424" duration="190000" />
+      <workItem from="1622276305912" duration="23308000" />
+      <workItem from="1622399451247" duration="10464000" />
+      <workItem from="1622439675892" duration="714000" />
+      <workItem from="1622441160042" duration="1287000" />
+      <workItem from="1622448421573" duration="3742000" />
+      <workItem from="1622479461315" duration="5334000" />
+      <workItem from="1622500669726" duration="12204000" />
+      <workItem from="1622515134032" duration="20034000" />
+      <workItem from="1622568119681" duration="107000" />
+      <workItem from="1622568632268" duration="562000" />
+      <workItem from="1622569327288" duration="180000" />
+      <workItem from="1622570161836" duration="42000" />
+      <workItem from="1622571599907" duration="2850000" />
+      <workItem from="1622575773269" duration="251000" />
+      <workItem from="1623438404681" duration="713000" />
+      <workItem from="1623455767435" duration="52071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
